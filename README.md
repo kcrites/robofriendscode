@@ -1,3 +1,10 @@
+This is the code base for the RoboFriends App on my Github. The other repository is the "build" from React.
+
+This code now includes Redux.
+Thanks for looking!
+
+-Ken
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
